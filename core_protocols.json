@@ -1,0 +1,144 @@
+{
+    "颅脑": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FLAIR", "max_slice_thickness": 5.0 },
+        { "name": "DWI", "max_slice_thickness": 5.0 }
+    ],
+    "鞍区": [
+        { "name": "T1", "max_slice_thickness": 3.0 },
+        { "name": "T2", "max_slice_thickness": 3.0 }
+    ],
+    "眼眶": [
+        { "name": "T1", "max_slice_thickness": 3.0 },
+        { "name": "T2", "max_slice_thickness": 3.0 },
+        { "name": "T2_FS", "max_slice_thickness": 3.0 },
+        { "name": "DWI", "max_slice_thickness": 3.0 }
+    ],
+    "鼻窦": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 }
+    ],
+    "鼻咽部": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 },
+        { "name": "DWI", "max_slice_thickness": 5.0 }
+    ],
+    "内耳/中耳/内听道": [
+        { "name": "T1", "max_slice_thickness": 2.5 },
+        { "name": "T2", "max_slice_thickness": 2.5 },
+        { "name": "3D_T2", "max_slice_thickness": 2.5 },
+        { "name": "T2_FS", "max_slice_thickness": 2.5 }
+    ],
+    "颞叶/海马": [
+        { "name": "T1", "max_slice_thickness": 3.0 },
+        { "name": "T2", "max_slice_thickness": 3.0 },
+        { "name": "T2_FLAIR", "max_slice_thickness": 3.0 },
+        { "name": "DWI", "max_slice_thickness": 3.0 }
+    ],
+    "口咽": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 },
+        { "name": "DWI", "max_slice_thickness": 5.0 }
+    ],
+    "颌面部": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 }
+    ],
+    "颈部": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 }
+    ],
+    "颈部血管": [
+        { "name": "3D_TOF", "max_slice_thickness": 1.2 },
+        { "name": "3D_PC", "max_slice_thickness": 1.2 }
+    ],
+    "胸部": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 },
+        { "name": "DWI", "max_slice_thickness": 5.0 }
+    ],
+    "心脏": [
+        { "name": "Cine", "max_slice_thickness": 99.0 },
+        { "name": "T1", "max_slice_thickness": 99.0 },
+        { "name": "T2", "max_slice_thickness": 99.0 },
+        { "name": "T2_FS", "max_slice_thickness": 99.0 },
+        { "name": " perfusion", "max_slice_thickness": 99.0 },
+        { "name": "LGE", "max_slice_thickness": 99.0 }
+    ],
+    "胸部大血管": [
+        { "name": "MRA", "max_slice_thickness": 1.2 }
+    ],
+    "高分辨血管壁": [
+        { "name": "MRA_TOF", "max_slice_thickness": 99.0 },
+        { "name": "T1", "max_slice_thickness": 2.0 },
+        { "name": "T2", "max_slice_thickness": 2.0 },
+        { "name": "3D_T1", "max_slice_thickness": 0.6 }
+    ],
+    "乳腺": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 },
+        { "name": "DWI", "max_slice_thickness": 5.0 }
+    ],
+    "腹部": [
+        { "name": "T1_in_phase", "max_slice_thickness": 8.0 },
+        { "name": "T1_out_of_phase", "max_slice_thickness": 8.0 },
+        { "name": "T2", "max_slice_thickness": 8.0 },
+        { "name": "T2_FS", "max_slice_thickness": 8.0 },
+        { "name": "DWI", "max_slice_thickness": 8.0 }
+    ],
+    "盆腔": [
+        { "name": "T1", "max_slice_thickness": 6.0 },
+        { "name": "T2", "max_slice_thickness": 6.0 },
+        { "name": "T2_FS", "max_slice_thickness": 6.0 },
+        { "name": "DWI", "max_slice_thickness": 6.0 }
+    ],
+    "前列腺": [
+        { "name": "T1", "max_slice_thickness": 3.5 },
+        { "name": "T2", "max_slice_thickness": 3.5 },
+        { "name": "T2_FS", "max_slice_thickness": 3.5 },
+        { "name": "DWI", "max_slice_thickness": 4.0 }
+    ],
+    "胎盘": [
+        { "name": "T1", "max_slice_thickness": 6.0 },
+        { "name": "T2", "max_slice_thickness": 6.0 },
+        { "name": "T1_FS", "max_slice_thickness": 4.0 },
+        { "name": "DWI", "max_slice_thickness": 6.0 }
+    ],
+    "脊柱": [
+        { "name": "T1", "max_slice_thickness": 5.0 },
+        { "name": "T2", "max_slice_thickness": 5.0 },
+        { "name": "T2_FS", "max_slice_thickness": 5.0 }
+    ],
+    "颈丛/臂丛/腰骶丛神经根": [
+        { "name": "T1_FS", "max_slice_thickness": 3.0 },
+        { "name": "T2_FS", "max_slice_thickness": 3.0 },
+        { "name": "3D_T2_FS", "max_slice_thickness": 1.5 }
+    ],
+    "上肢": [
+        { "name": "T1", "max_slice_thickness": 4.0 },
+        { "name": "T2_FS", "max_slice_thickness": 4.0 }
+    ],
+    "下肢": [
+        { "name": "T1", "max_slice_thickness": 4.0 },
+        { "name": "T2_FS", "max_slice_thickness": 4.0 }
+    ],
+    "关节": [
+        { "name": "T1", "max_slice_thickness": 4.0 },
+        { "name": "T2_FS", "max_slice_thickness": 4.0 },
+        { "name": "PD_FS", "max_slice_thickness": 4.0 }
+    ],
+    "颞颌关节": [
+        { "name": "T1", "max_slice_thickness": 3.0 },
+        { "name": "T2", "max_slice_thickness": 3.0 },
+        { "name": "T2_FS", "max_slice_thickness": 3.0 },
+        { "name": "PD_FS", "max_slice_thickness": 3.0 }
+    ]
+}
